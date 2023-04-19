@@ -15,3 +15,7 @@
 <br>
 
 <h1 align="center"> Introduction to Trojan</h1>
+
+<p>
+A Trojan Horse Virus is a type of malware that downloads onto a computer disguised as a legitimate program. The delivery method typically sees an attacker use social engineering to hide malicious code within legitimate software to try and gain users' system access with their software.
+  <P/>

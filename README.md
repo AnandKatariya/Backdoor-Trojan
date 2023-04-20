@@ -24,3 +24,4 @@ A Trojan Horse Virus is a type of malware that downloads onto a computer disguis
 <br>
 
 ### 🏠 [HOW TO MAKE TROJAN ](https://github.com/AnandKatariya/Create-Trojan)
+

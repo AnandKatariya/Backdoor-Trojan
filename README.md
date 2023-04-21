@@ -11,7 +11,7 @@
   <img src="https://media.tenor.com/-r6mKisZ_ycAAAAM/tokusatsu-ultraman.gif" height='288' width='512' />
 </p>
 
-<h1 align="center"> Dont try this at Home, School,Or any other public place!!! </h1>
+<h2 align="center"> Dont try this at Home, School,Or any other public place!!! </h2>
 <br>
 
 <h1 align="center"> Introduction to Trojan</h1>

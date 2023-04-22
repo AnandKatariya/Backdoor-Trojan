@@ -24,4 +24,4 @@ A Trojan Horse Virus is a type of malware that downloads onto a computer disguis
 <br>
 
 ### 🏠 [HOW TO MAKE TROJAN ](https://github.com/AnandKatariya/Create-Trojan)
-
+<h2> So as you all know that we are gona learn how to make trojan and put in backdoor, Before that you need to know how it works, so we should know about that and we should know to destroy it. 

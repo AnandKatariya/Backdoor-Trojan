@@ -25,3 +25,6 @@ A Trojan Horse Virus is a type of malware that downloads onto a computer disguis
 ### 🏠 [How to make trojan ](https://github.com/AnandKatariya/Create-Trojan)
 
 ## But all apart in this we will learn how to add trojan in backdoor from powershell.
+
+
+

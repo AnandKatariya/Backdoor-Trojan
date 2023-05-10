@@ -83,3 +83,7 @@ you need to save it as .bat it is mandatory. But you will see that file not look
 
 * Github: [@AnandKatariya](https://github.com/AnandKatariya)
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Backdoor-Trojan/issues).
+

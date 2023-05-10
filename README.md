@@ -91,3 +91,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you! <br>
 </br>
+<h1 align='center'>Stay tuned for more updates.</h1>

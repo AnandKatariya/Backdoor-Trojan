@@ -87,3 +87,7 @@ you need to save it as .bat it is mandatory. But you will see that file not look
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Backdoor-Trojan/issues).
 
+## Show your support
+
+Give a ⭐️ if this project helped you! <br>
+</br>

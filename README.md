@@ -77,3 +77,7 @@ you need to save it as .bat it is mandatory. But you will see that file not look
 
 <h2> After install open the file or drag and drop it in the Bat to Exe converter and run the file then select the icon as the thumnail of the same image but before select the icon go to png to ico converter online and convert the image in ico file and then add it as logo and change the exe format into invisible after this you will convert it and thats it your are done.</h2>
 
+## Author
+
+👤 **Anand Katariya**
+
